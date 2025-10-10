@@ -21,9 +21,9 @@ jobs:
             - name: Install mise
               uses: jdx/mise-action@v2
               with:
-                  version: latest
-                  cache: true
-                  install: false
+                version: 2025.9.6
+                cache: true
+                install: false
 
             - name: Setup Python via mise
               run: |
@@ -65,7 +65,7 @@ jobs:
             - name: Install mise
               uses: jdx/mise-action@v2
               with:
-                  version: latest
+                  version: 2025.9.6
                   cache: true
                   install: false
 
