@@ -22,4 +22,7 @@ publish            Publish package to PyPI
 setup              Setup development environment
 test               Run tests
 typecheck          Type check with mypy
+update-changelog   Update CHANGELOG.md with version entry
+upgrade            Upgrade dependencies
+version            Update version in pyproject.toml
 ```
