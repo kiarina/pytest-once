@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   that installs the lowest declared dependency versions
 
 ### Changed
-- Refreshed locked dependencies and pinned the mise version used by CI to 2026.9.1
+- Refreshed locked dependencies and pinned the mise version used by CI to 2026.9.15
 
 ## [0.1.0] - 2024-01-10
 
